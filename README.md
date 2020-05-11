@@ -1,4 +1,4 @@
-# web-nodejs-sample
+# JavaScript by Example
 
 ExpressJS Sample Application
 
